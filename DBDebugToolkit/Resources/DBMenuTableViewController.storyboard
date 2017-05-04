@@ -97,8 +97,9 @@
                             <outlet property="delegate" destination="YH8-ay-XNT" id="WtV-iF-rP7"/>
                         </connections>
                     </tableView>
-                    <navigationItem key="navigationItem" title="DBDebugToolkit" id="48o-9C-Bya">
-                        <barButtonItem key="leftBarButtonItem" title="Close" id="8BW-W3-rXm">
+                    <navigationItem key="navigationItem" title="Debug工具" id="48o-9C-Bya">
+                        <barButtonItem key="backBarButtonItem" title=" " id="R3W-Rq-PEy"/>
+                        <barButtonItem key="leftBarButtonItem" title="X" id="8BW-W3-rXm">
                             <connections>
                                 <action selector="closeButtonAction:" destination="YH8-ay-XNT" id="X8o-4e-DIN"/>
                             </connections>
