@@ -25,7 +25,7 @@ DBDebugToolkit is a library written with two goals in mind: providing as many ea
   s.screenshots     = 'http://i.imgur.com/9IENbX4.png', 'http://i.imgur.com/jylD3PI.png', 'http://i.imgur.com/EOCIlgB.png', 'http://i.imgur.com/Ip1rPbJ.png', 'http://i.imgur.com/Cm8XpsQ.png', 'http://i.imgur.com/bfLB1uM.png', 'http://i.imgur.com/dQIwSce.png'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Dariusz Bukowski' => 'dariusz.m.bukowski@gmail.com' }
-  s.source           = { :git => 'https://github.com/dbukowski/DBDebugToolkit.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/Liaojiahao/DBDebugToolkit.git', :tag => s.version.to_s }
   s.social_media_url = 'https://twitter.com/darekbukowski'
 
   s.ios.deployment_target = '8.0'
