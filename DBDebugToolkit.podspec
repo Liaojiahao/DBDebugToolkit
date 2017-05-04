@@ -21,11 +21,11 @@ Pod::Spec.new do |s|
 DBDebugToolkit is a library written with two goals in mind: providing as many easily accessible debugging tools as possible and keeping the integration process seamless in all your projects. It all started with the lack of possibility to check the version and build number of the build you have installed on your phone. Then, after experiencing many inconveniences during developing and testing iOS software, it evolved into a powerful tool providing such important features like measuring your application performance, showing view frames, slowing down animations, showing touches, presenting requests sent by your application, browsing files, keychain, user defaults, Core Data and cookies, displaying console output, simulating location and many, many more.
                        DESC
 
-  s.homepage         = 'https://github.com/dbukowski/DBDebugToolkit'
+  s.homepage         = 'https://github.com/Liaojiahao/DBDebugToolkit.git'
   s.screenshots     = 'http://i.imgur.com/9IENbX4.png', 'http://i.imgur.com/jylD3PI.png', 'http://i.imgur.com/EOCIlgB.png', 'http://i.imgur.com/Ip1rPbJ.png', 'http://i.imgur.com/Cm8XpsQ.png', 'http://i.imgur.com/bfLB1uM.png', 'http://i.imgur.com/dQIwSce.png'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Dariusz Bukowski' => 'dariusz.m.bukowski@gmail.com' }
-  s.source           = { :git => 'https://github.com/dbukowski/DBDebugToolkit.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/Liaojiahao/DBDebugToolkit.git', :tag => s.version.to_s }
   s.social_media_url = 'https://twitter.com/darekbukowski'
 
   s.ios.deployment_target = '8.0'
